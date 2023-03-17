@@ -3,3 +3,4 @@
   头像血条依据职业染色，不需要设置。  
   理论上各版本游戏通用。    
   个人仓库：https://github.com/JosephineYusunuxiang/UnitFramesHealthBarColored  
+  压缩包UnitFramesHealthBarColored文件夹放入World of Warcraft\_classic_era_\Interface\AddOns或World of Warcraft\_retail_\Interface\AddOns文件夹中  
