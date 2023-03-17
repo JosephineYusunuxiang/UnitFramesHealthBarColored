@@ -8,4 +8,4 @@
 UnitFramesHealthBarColored.lua
 
 ## Title-zhCN: |cffffffff[玉素]|r UnitFramesHealthBarColored 头像血条职业染色
-## Notes-zhCN: |n |cff32CD99头像血条依据职业染色，不需要设置。|n 理论上各版本游戏通用。 |n|n 玉素奴香@哈霍兰CN |n|n 个人仓库：https://github.com/JosephineYusunuxiang |r
+## Notes-zhCN: |n |cff32CD99头像血条依据职业染色，不需要设置。|n 理论上各版本游戏通用。 |n|n 玉素奴香@哈霍兰CN |n|n 个人仓库：https://github.com/JosephineYusunuxiang/UnitFramesHealthBarColored |r
