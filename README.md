@@ -6,4 +6,6 @@
   
   压缩包UnitFramesHealthBarColored文件夹放入如_classic_era_的AddOns或_retail_的AddOns文件夹中。  
   
+  玉素奴香@哈霍兰
+  
   个人仓库：https://github.com/JosephineYusunuxiang/UnitFramesHealthBarColored  
